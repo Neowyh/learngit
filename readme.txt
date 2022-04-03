@@ -5,3 +5,4 @@ git tracks changes of files
 commit to repo
 add to stage
 Creating a new branch is quick And simple.
+add merge
